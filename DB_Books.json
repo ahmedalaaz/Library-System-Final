@@ -1,0 +1,101 @@
+{
+	"book":	{
+		"title":	"Test1",
+		"author":	"TestAuthor",
+		"publisher":	"TestPublisher",
+		"ISBN":	"21-235-12-875",
+		"date":	"22/12/2017",
+		"numberOfCopies":	50,
+		"numberOfTimesBorrowed":	4,
+		"availableCopies":	47,
+		"category":	"TestCategory"
+	},
+	"book":	{
+		"title":	"ISBN",
+		"author":	"AHMED",
+		"publisher":	"AASSDD",
+		"ISBN":	"1-2-5-6896523",
+		"date":	"22/5/2016",
+		"numberOfCopies":	24,
+		"numberOfTimesBorrowed":	1,
+		"availableCopies":	23,
+		"category":	"ACTION"
+	},
+	"book":	{
+		"title":	"awqe",
+		"author":	"qwe",
+		"publisher":	"qwe",
+		"ISBN":	"123-444-78-98",
+		"date":	"2/12/1998",
+		"numberOfCopies":	3,
+		"numberOfTimesBorrowed":	1,
+		"availableCopies":	2,
+		"category":	"asdqw"
+	},
+	"book":	{
+		"title":	"Programming",
+		"author":	"amr",
+		"publisher":	"amrp",
+		"ISBN":	"123-456-789-6",
+		"date":	"12/3/1998",
+		"numberOfCopies":	12,
+		"numberOfTimesBorrowed":	1,
+		"availableCopies":	11,
+		"category":	"prog"
+	},
+	"book":	{
+		"title":	"test2",
+		"author":	"test22",
+		"publisher":	"testt",
+		"ISBN":	"123-654-78-98",
+		"date":	"2/12/1998",
+		"numberOfCopies":	123,
+		"numberOfTimesBorrowed":	1,
+		"availableCopies":	123,
+		"category":	"test"
+	},
+	"book":	{
+		"title":	"test1title",
+		"author":	"test1author",
+		"publisher":	"test1pub",
+		"ISBN":	"123-456-78-98",
+		"date":	"12/12/2017",
+		"numberOfCopies":	1234,
+		"numberOfTimesBorrowed":	0,
+		"availableCopies":	1234,
+		"category":	"comedy"
+	},
+	"book":	{
+		"title":	"NewTest",
+		"author":	"test",
+		"publisher":	"tester",
+		"ISBN":	"1-23-456-7891",
+		"date":	"12/2/2012",
+		"numberOfCopies":	19,
+		"numberOfTimesBorrowed":	0,
+		"availableCopies":	19,
+		"category":	"testing"
+	},
+	"book":	{
+		"title":	"test2",
+		"author":	"testauthor",
+		"publisher":	"publasd",
+		"ISBN":	"1-2-3-4567896",
+		"date":	"11/2/2013",
+		"numberOfCopies":	13,
+		"numberOfTimesBorrowed":	0,
+		"availableCopies":	13,
+		"category":	"categ"
+	},
+	"book":	{
+		"title":	"Ahmed Alansary ",
+		"author":	"me",
+		"publisher":	"meee",
+		"ISBN":	"13-456-789-45",
+		"date":	"2/8/2014",
+		"numberOfCopies":	133,
+		"numberOfTimesBorrowed":	0,
+		"availableCopies":	133,
+		"category":	"comedy"
+	}
+}

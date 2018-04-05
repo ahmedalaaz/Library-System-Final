@@ -1,0 +1,86 @@
+{
+	"member":	{
+		"lastName":	"karam",
+		"firstName":	"khaled",
+		"ID":	1,
+		"buildingNumber":	12,
+		"street":	"street",
+		"city":	"alex",
+		"phoneNumber":	"01229097917",
+		"age":	19,
+		"numberOfBooksBorrowed":	2,
+		"email":	"admin@gmail.com"
+	},
+	"member":	{
+		"lastName":	"alaa",
+		"firstName":	"ahmed",
+		"ID":	3,
+		"buildingNumber":	12,
+		"street":	"nasser",
+		"city":	"alex",
+		"phoneNumber":	"01229097917",
+		"age":	20,
+		"numberOfBooksBorrowed":	1,
+		"email":	"ahmed@ha.com"
+	},
+	"member":	{
+		"lastName":	"khalod",
+		"firstName":	"khaled",
+		"ID":	5,
+		"buildingNumber":	99,
+		"street":	"fawzy",
+		"city":	"alexandria",
+		"phoneNumber":	"01111006733",
+		"age":	19,
+		"numberOfBooksBorrowed":	0,
+		"email":	"khaled@khaled.com"
+	},
+	"member":	{
+		"lastName":	"ALaaa",
+		"firstName":	"Ahmed Alansary",
+		"ID":	6,
+		"buildingNumber":	123,
+		"street":	"asr",
+		"city":	"alexandria",
+		"phoneNumber":	"01229097917",
+		"age":	18,
+		"numberOfBooksBorrowed":	0,
+		"email":	"ahmed@gmail.com"
+	},
+	"member":	{
+		"lastName":	"farid",
+		"firstName":	"Fifo",
+		"ID":	7,
+		"buildingNumber":	177,
+		"street":	"malak 7efny",
+		"city":	"alexandria",
+		"phoneNumber":	"01001138147",
+		"age":	19,
+		"numberOfBooksBorrowed":	0,
+		"email":	"fifo@gmail.com"
+	},
+	"member":	{
+		"lastName":	"karam",
+		"firstName":	"karam",
+		"ID":	8,
+		"buildingNumber":	14,
+		"street":	"ahmed kamha",
+		"city":	"cairo",
+		"phoneNumber":	"01550072348",
+		"age":	20,
+		"numberOfBooksBorrowed":	1,
+		"email":	"ahmed@k.com"
+	},
+	"member":	{
+		"lastName":	"testln",
+		"firstName":	"test",
+		"ID":	9,
+		"buildingNumber":	126,
+		"street":	"ahmedst",
+		"city":	"alexandria",
+		"phoneNumber":	"01229097917",
+		"age":	19,
+		"numberOfBooksBorrowed":	2,
+		"email":	"ahmed@mm.com"
+	}
+}

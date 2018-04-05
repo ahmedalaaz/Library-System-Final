@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1513778486 source:/media/ahmed/c31012c3-dc3d-4a16-a892-955f3307b05e/Library System project /library_system/main.c
+	<stdio.h>
+	"view.h"
+	"control.h"
+
+1514213996 source:/media/ahmed/c31012c3-dc3d-4a16-a892-955f3307b05e/Library System project /library_system/view.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<memory.h>
+	"view.h"
+	"control.h"
+	"utilities.h"
+	<unistd.h>
+
+1514213935 /media/ahmed/c31012c3-dc3d-4a16-a892-955f3307b05e/Library System project /library_system/view.h
+	"control.h"
+
+1514213949 source:/media/ahmed/c31012c3-dc3d-4a16-a892-955f3307b05e/Library System project /library_system/control.c
+	<stdio.h>
+	<string.h>
+	"control.h"
+	"cJSON.h"
+	"view.h"
+
+1513880475 /media/ahmed/c31012c3-dc3d-4a16-a892-955f3307b05e/Library System project /library_system/control.h
+	<stdio.h>
+
+1514024265 /media/ahmed/c31012c3-dc3d-4a16-a892-955f3307b05e/Library System project /library_system/utilities.h
+	"control.h"
+
+1514024267 source:/media/ahmed/c31012c3-dc3d-4a16-a892-955f3307b05e/Library System project /library_system/utilities.c
+	"view.h"
+	"control.h"
+	<memory.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1511716119 /media/ahmed/c31012c3-dc3d-4a16-a892-955f3307b05e/Library System project /library_system/cJSON.h
+	<stddef.h>
+

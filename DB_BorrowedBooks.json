@@ -1,0 +1,58 @@
+{
+	"borrowedBook":	{
+		"ID":	8,
+		"ISBN":	"1-2-5-6896523",
+		"borrow date":	"20/12/2017",
+		"due date":	"22/12/2017",
+		"return date":	"0/0/0"
+	},
+	"borrowedBook":	{
+		"ID":	3,
+		"ISBN":	"123-444-78-98",
+		"borrow date":	"24/12/2017",
+		"due date":	"24/1/2017",
+		"return date":	"0/0/0"
+	},
+	"borrowedBook":	{
+		"ID":	3,
+		"ISBN":	"21-235-12-875",
+		"borrow date":	"24/12/2017",
+		"due date":	"7/1/2018",
+		"return date":	"24/12/2017"
+	},
+	"borrowedBook":	{
+		"ID":	9,
+		"ISBN":	"21-235-12-875",
+		"borrow date":	"25/12/2017",
+		"due date":	"8/1/2018",
+		"return date":	"0/0/0"
+	},
+	"borrowedBook":	{
+		"ID":	9,
+		"ISBN":	"21-235-12-875",
+		"borrow date":	"25/12/2017",
+		"due date":	"8/1/2018",
+		"return date":	"0/0/0"
+	},
+	"borrowedBook":	{
+		"ID":	1,
+		"ISBN":	"123-456-789-6",
+		"borrow date":	"25/12/2017",
+		"due date":	"8/1/2018",
+		"return date":	"0/0/0"
+	},
+	"borrowedBook":	{
+		"ID":	1,
+		"ISBN":	"21-235-12-875",
+		"borrow date":	"25/12/2017",
+		"due date":	"8/1/2018",
+		"return date":	"0/0/0"
+	},
+	"borrowedBook":	{
+		"ID":	1,
+		"ISBN":	"123-654-78-98",
+		"borrow date":	"25/12/2017",
+		"due date":	"8/1/2018",
+		"return date":	"25/12/2017"
+	}
+}
